@@ -1,1 +1,1 @@
-"# Todolist with django-react" 
+# Todolist with django-react
