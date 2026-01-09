@@ -29,7 +29,7 @@ Bienvenue dans mon premier projet de développement web combinant **Django** et 
 
 1. **Cloner le repository**
     ```bash
-    git clone https://github.com/VOTRE_USERNAME/TodoList.git
+    git clone https://github.com/cicada0961/TodoList.git
     cd TodoList
     ```
 
